@@ -1,0 +1,30 @@
+Output/Debug/Obj/Tutorial/mixer_rand.o: \
+ C:\Users\Lakshya\Desktop\Mixer\Mixer\src\mixer\mixer_rand.c \
+ C:\Users\Lakshya\Desktop\Mixer\Mixer\src\mixer\mixer_internal.h \
+ C:\Users\Lakshya\Desktop\Mixer\Mixer\src\mixer\mixer.h \
+ C:/Users/Lakshya/Desktop/Mixer/Mixer/src/gpi/tools.h \
+ C:/Program\ Files/SEGGER/SEGGER\ Embedded\ Studio\ for\ ARM\ 5.68/include/assert.h \
+ C:/Program\ Files/SEGGER/SEGGER\ Embedded\ Studio\ for\ ARM\ 5.68/include/stddef.h \
+ C:/Program\ Files/SEGGER/SEGGER\ Embedded\ Studio\ for\ ARM\ 5.68/include/__crossworks.h \
+ C:/Program\ Files/SEGGER/SEGGER\ Embedded\ Studio\ for\ ARM\ 5.68/include/stdint.h \
+ C:/Users/Lakshya/Desktop/Mixer/Mixer/src/gpi/platform_spec.h \
+ C:/Users/Lakshya/Desktop/Mixer/Mixer/src/gpi/clocks.h \
+ C:/Users/Lakshya/Desktop/Mixer/Mixer/src/gpi/arm/nordic/pca10056/clocks.h \
+ c:\users\lakshya\desktop\mixer\mixer\src\gpi\arm\nordic\nrf52840\clocks.h \
+ C:/Users/Lakshya/Desktop/Mixer/Mixer/tutorial/nRF52840/nRF/CMSIS/Device/Include/nrf.h \
+ C:/Users/Lakshya/Desktop/Mixer/Mixer/tutorial/nRF52840/nRF/CMSIS/Device/Include/nrf52840.h \
+ C:/Users/Lakshya/Desktop/Mixer/Mixer/tutorial/nRF52840/CMSIS_4/CMSIS/Include/core_cm4.h \
+ C:/Users/Lakshya/Desktop/Mixer/Mixer/tutorial/nRF52840/CMSIS_4/CMSIS/Include/core_cmInstr.h \
+ C:/Users/Lakshya/Desktop/Mixer/Mixer/tutorial/nRF52840/CMSIS_4/CMSIS/Include/cmsis_gcc.h \
+ C:/Users/Lakshya/Desktop/Mixer/Mixer/tutorial/nRF52840/CMSIS_4/CMSIS/Include/core_cmFunc.h \
+ C:/Users/Lakshya/Desktop/Mixer/Mixer/tutorial/nRF52840/CMSIS_4/CMSIS/Include/core_cmSimd.h \
+ C:/Users/Lakshya/Desktop/Mixer/Mixer/tutorial/nRF52840/nRF/CMSIS/Device/Include/system_nrf52840.h \
+ C:/Users/Lakshya/Desktop/Mixer/Mixer/tutorial/nRF52840/nRF/CMSIS/Device/Include/nrf52840_bitfields.h \
+ C:/Users/Lakshya/Desktop/Mixer/Mixer/tutorial/nRF52840/nRF/CMSIS/Device/Include/nrf51_to_nrf52840.h \
+ C:/Users/Lakshya/Desktop/Mixer/Mixer/tutorial/nRF52840/nRF/CMSIS/Device/Include/nrf52_to_nrf52840.h \
+ C:/Users/Lakshya/Desktop/Mixer/Mixer/tutorial/nRF52840/nRF/CMSIS/Device/Include/compiler_abstraction.h \
+ C:/Users/Lakshya/Desktop/Mixer/Mixer/tutorial/nRF52840/mixer_config.h \
+ C:/Users/Lakshya/Desktop/Mixer/Mixer/src/gpi/protothreads.h \
+ C:/Users/Lakshya/Desktop/Mixer/Mixer/src/gpi/protothreads/pt.h \
+ C:/Users/Lakshya/Desktop/Mixer/Mixer/src/gpi/protothreads/lc.h \
+ C:/Users/Lakshya/Desktop/Mixer/Mixer/src/gpi/protothreads/lc-switch.h
